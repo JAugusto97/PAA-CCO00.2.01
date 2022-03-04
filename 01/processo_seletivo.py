@@ -43,5 +43,4 @@ if __name__ == "__main__":
         C = int(user_input_list[1])
         scores = [float(score) for score in user_input_list[2:]]
         scores_sorted = mergesort(scores)
-        print(scores_sorted)
         print(scores_sorted[K-1])
