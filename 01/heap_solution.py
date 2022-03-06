@@ -122,4 +122,4 @@ if __name__ == "__main__":
             K, [float(score) for score in user_input_list[2:]]
         )
         # output
-        print(scores_sorted)
+        print(format(scores_sorted, ".2f"))
