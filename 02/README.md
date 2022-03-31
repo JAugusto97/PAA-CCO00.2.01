@@ -68,4 +68,5 @@ contrário.
 ## Saída esperada para o exemplo
 
 victory
+
 defeat
